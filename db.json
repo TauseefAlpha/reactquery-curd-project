@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Ahmed",
+      "email": "ahmed98@gmail.com",
+      "age": 21
+    },
+    {
+      "name": "maria",
+      "email": "maria76@gmail.com",
+      "age": "21",
+      "id": 3
+    },
+    {
+      "name": "sadia",
+      "email": "sadiabibi2001@gmail.com",
+      "age": "21",
+      "id": 4
+    },
+    {
+      "name": "waqar",
+      "email": "waqaryounis98@gmail.com",
+      "age": "28",
+      "id": 5
+    },
+    {
+      "name": "nafees",
+      "email": "nafees96@gmail.com",
+      "age": "27",
+      "id": 6
+    }
+  ],
+  "address": [
+    {
+      "city": "rwp"
+    }
+  ]
+}
